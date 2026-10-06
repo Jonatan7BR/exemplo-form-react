@@ -1,0 +1,17 @@
+body {
+  --sans-serif: "Carlito", sans-serif;
+  --serif: "Literata", serif;
+  --monospace: "Cousine", monospace;
+
+  &.lightmode {
+    --page-background: #eee;
+    --text-color: #000;
+    --table-border: #000;
+  }
+
+  &.darkmode {
+    --page-background: #222;
+    --text-color: #fff;
+    --table-border: #fff;
+  }
+}
