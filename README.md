@@ -1,6 +1,6 @@
-# Exemplo de CRUD em Vue
+# Exemplo de CRUD em React
 
-Este projeto possui um exemplo de cadastro de pessoas implementado em Vue.
+Este projeto possui um exemplo de cadastro de pessoas implementado em React.
 
 Para executar este projeto localmente, primeiro você deve executar o servidor do projeto, que está [neste link](https://github.com/Jonatan7BR/exemplo-crud-json).
 
